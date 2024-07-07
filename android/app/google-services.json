@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672845889731",
+    "project_id": "dapursarjana-7fc76",
+    "storage_bucket": "dapursarjana-7fc76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672845889731:android:40212f3312392ddc332276",
+        "android_client_info": {
+          "package_name": "id.co.yasareksawiyata.dapursarjana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlXaWetVQ9ID2xzrXAuh9CR7iAAYlBEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
